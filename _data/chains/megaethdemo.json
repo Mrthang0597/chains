@@ -1,0 +1,28 @@
+{
+  "name": "MegaEth Demo Chain",
+  "chain": "MegaEthDemo",
+  "rpc": ["https://rpc.megaethdemo.net"],
+  "faucets": ["https://faucet.megaethdemo.net"],
+  "nativeCurrency": {
+    "name": "MegaETH",
+    "symbol": "MEGA",
+    "decimals": 18
+  },
+  "infoURL": "https://megaethdemo.net",
+  "shortName": "megaethdemo",
+  "chainId": 99999,
+  "networkId": 99999,
+  "explorers": [
+    {
+      "name": "MegaEth Explorer",
+      "url": "https://explorer.megaethdemo.net",
+      "standard": "EIP3091"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "MrThang0597",
+      "wallet": "0x14aF2F86971E8164bA7afe549C82a65668f7CbEc"
+    }
+  ]
+}
